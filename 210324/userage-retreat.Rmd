@@ -32,7 +32,7 @@ style_mono_accent(
 
 class: userage-slide
 
-# Ethical & Epistemic Contributions & Challenges of various Collaborative Approaches<br>in Research on Ageing and Health
+# Ethical & Epistemic Contributions & Challenges of various Collaborative Approaches in Research on Ageing and Health
 
  - Joakim Frögren, doktorand, Lunds universitet
  - Susanne Iwarsson, huvudhandledare, Lunds universitet

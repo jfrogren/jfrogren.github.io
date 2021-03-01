@@ -3,22 +3,22 @@
     "path": "~/Documents/jfrogren.github.io/210324/userage-retreat.Rmd",
     "project_path": "userage-retreat.Rmd",
     "type": "r_markdown",
-    "hash": "1661104918",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1614544512726.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "54,2",
-        "scrollLine": "45"
+        "cursorPosition": "34,85",
+        "scrollLine": "27"
     },
     "folds": "",
-    "lastKnownWriteTime": 1614556098,
+    "lastKnownWriteTime": 1614559578,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614556098772,
+    "last_content_update": 1614559578400,
     "read_only": false,
     "read_only_alternatives": []
 }
