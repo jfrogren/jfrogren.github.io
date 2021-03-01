@@ -1,9 +1,9 @@
 ---
-title: "Half-time review"
-subtitle: "for my doctoral studies"
+title: "UserAge-retreat presentation"
+subtitle: "of my doctoral studies"
 author: "Joakim Frögren"
 institute: "Department of Health Sciences, Lund University"
-date: "2020-08-27"
+date: "2021-03-24"
 output:
   xaringan::moon_reader:
     seal: false
