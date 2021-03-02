@@ -22,8 +22,9 @@ output:
 library(xaringanthemer)
 style_mono_accent(
   base_color = "#000080",
-  header_font_google = google_font("Cabin"),
-  text_font_google   = google_font("Noto Sans", "600"),
+  header_font_family = ("TeX Gyre Termes"),
+  header_font_url    = "http://fonts.cdnfonts.com/css/tex-gyre-termes",
+  text_font_google   = google_font("Roboto"),
   text_font_size     = "28px",
   code_font_google   = google_font("Fira Mono")
 )

@@ -18,19 +18,19 @@
  *  Version: 0.3.0
  *
  * ------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:600&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Cabin&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Roboto&display=swap);
+@import url(http://fonts.cdnfonts.com/css/tex-gyre-termes);
 @import url(https://fonts.googleapis.com/css?family=Fira+Mono&display=swap);
 
 
 :root {
   /* Fonts */
-  --text-font-family: 'Noto Sans';
+  --text-font-family: Roboto;
   --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: Cabin;
-  --header-font-is-google: 1;
+  --header-font-family: 'TeX Gyre Termes';
+  --header-font-is-google: 0;
   --code-font-family: 'Fira Mono';
   --code-font-is-google: 1;
   --base-font-size: 20px;
@@ -66,7 +66,7 @@ html {
 
 body {
   font-family: var(--text-font-family), var(--text-font-family-fallback), var(--text-font-base);
-  font-weight: 600;
+  font-weight: normal;
   color: var(--text-color);
 }
 h1, h2, h3 {
