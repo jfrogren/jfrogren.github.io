@@ -71,3 +71,12 @@ class:
 
 ???
 
+---
+
+class: 
+
+<img src="images/wicked-problem-article-svenska.png" width="1100px" style="vertical-align:middle;margin:5px 5px">
+
+
+???
+
