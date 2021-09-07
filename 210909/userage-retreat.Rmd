@@ -14,7 +14,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       titleSlideClass: ["left", "middle", "userage-slide"]
-      ratio: '4:3'
+      ratio: '16:9'
       beforeInit: ["macros.js", "cols_macro.js"]
 ---
 
@@ -54,21 +54,17 @@ class:
 
 ![](images/confused2.gif)
 
+--
+
+Motsvarar engelskans *Wicked problems*
+
 ???
 
 Lömska problem vad menar jag med det? Ja, det är egentligen den svenska översättningen av vad som på engelska heter 'wicked problem' och det betyder problem som när man tror att man har funnit en lösning på dem ur en aspekt så visar det sig att det inbillade lösningen i sin tur ger upphov till problem ur en annan synvinkel (eventuell gif).   Den förklaringen är något förenklad bild 
 
---
+---
 
-- **Studie II**: Frögren, Schmidt, Kylén, Jonsson, Slaug, Iwarsson:<br>*Awareness of and attitudes towards public involvement in research on ageing and health among 60+ citizens in Sweden* - i manus, skickas in under våren
-
---
-
-- **Studie III**: Frögren et al.: *’The Housing Experiment’: Senior citizens' experience of being involved in a Citizen Science 'mass experiment’* - datainsamling september
-
---
-
-- **Studie IV**: Under diskussion
+![](images/wicked-problem-article.png)
 
 
 ???
