@@ -60,8 +60,7 @@ Motsvarar engelskans *Wicked problems*
 
 ???
 
-Lömska problem vad menar jag med det? Ja, det är egentligen den svenska översättningen av vad som på engelska heter 'wicked problem' och det betyder problem som när man tror att man har funnit en lösning på dem ur en aspekt så visar det sig att det inbillade lösningen i sin tur ger upphov till problem ur en annan synvinkel (eventuell gif).   Den förklaringen är något förenklad bild 
-
+Lömska problem vad menar jag med det? Ja, det är egentligen den svenska översättningen av vad som på engelska heter 'wicked problem' och innan jag går in på vad som utmärker ett så kallat lömskt problem och varifrån begreppet kommer så vill jag bara säga att det var detta begrepp och den teoribildning som finns kring det 
 ---
 
 class: 
@@ -71,6 +70,8 @@ class:
 
 ???
 
+var något som vi använde i en av de artiklar som kommer att ingå i min avhandling. Titeln på den artikeln var "Understanding..."
+
 ---
 
 class: 
@@ -79,4 +80,10 @@ class:
 
 
 ???
+Och översatt till svenska "Att förstå det lömska problemet att tillhandahålla tillgängliga bostäder för den åldrande befolkningen i Sverige"
+
+---
+
+???
+Begreppet wicked problem myntades åtminstone i den betydelse vi använder oss av det av arkitekterna och stadsplanerarna Rittel & Webber 19...
 
