@@ -15,7 +15,7 @@ output:
       countIncrementalSlides: false
       titleSlideClass: ["left", "middle", "userage-slide"]
       ratio: '16:9'
-      beforeInit: ["macros.js", "cols_macro.js"]
+      beforeInit: ["", "cols_macro.js"]
 ---
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
@@ -75,7 +75,7 @@ Lömska problem vad menar jag med det? Ja, det är egentligen den svenska övers
 
 ## Wicked problems. Rittel & Webber (1973)
 
-![](images/wicked-problem-mix.png)
+![](images/case-logo-svensk.png)
 ???
 
 REDAN PÅ 1970-TALET insåg två stadsplanerare vid University of California i Berkley, USA, nämligen Horst Rittel och Melvin Webber, att det är skillnad på samhällsproblem och samhällsproblem. Lång ifrån allt går att lösa med god vilja och rätt planering.
