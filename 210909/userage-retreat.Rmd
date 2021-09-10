@@ -74,11 +74,13 @@ Lömska problem vad menar jag med det? Ja, det är egentligen den svenska övers
 ---
 
 ## Wicked problems. Rittel & Webber (1973)
-
+<!--
 <img src="images/rw-article2.png" width="600px" style="margin:100px 10px">
 <img src="images/rittel.png" width="150px" style="margin:220px 20px">
 <img src="images/webber.png" width="170px" style="margin:220px 0px">
+-->
 
+![](images/wicked-problem-mix.png)
 ???
 
 REDAN PÅ 1970-TALET insåg två stadsplanerare vid University of California i Berkley, USA, nämligen Horst Rittel och Melvin Webber, att det är skillnad på samhällsproblem och samhällsproblem. Lång ifrån allt går att lösa med god vilja och rätt planering.
