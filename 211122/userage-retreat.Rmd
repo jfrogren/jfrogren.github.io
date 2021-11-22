@@ -1,0 +1,281 @@
+---
+title: "Lärdomar från ett massexperment om tillgänglighet i svenska bostäder"
+subtitle: ""
+author: "Joakim Frögren"
+institute: "Institutionen för hälsovetenskaper, Lunds universitet"
+date: "2021-11-22"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    css: [xaringan-themer.css, cols.css, center.css, grey-fade.css, header-footer.css, navy-slide.css, userage-slide.css, title-slide-custom.css, tagforsening.css]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["left", "middle", "userage-slide"]
+      ratio: '16:9'
+      beforeInit: ["", "cols_macro.js"]
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#000080",
+  header_font_family = ("TeX Gyre Termes"),
+  header_font_url    = "http://fonts.cdnfonts.com/css/tex-gyre-termes",
+  text_font_google   = google_font("Roboto"),
+  text_font_size     = "28px",
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+class: userage-slide, title-slide-custom
+
+# Lärdomar från ett massexperiment om tillgänglighet i svenska bostäder
+
+### Joakim Frögren
+### Institutionen för hälsovetenskaper, Lunds universitet
+### 2021-11-18
+
+<img src="images/case-logo-svensk.png" width="240px" style="vertical-align:middle;margin:65px 5px">
+
+???
+
+Hej och tack så mycket. Ja, jag ska alltså försöka att beskriva den studie som vi precis har avslutat datainsamlingen i och som för tillfället har arbetsnamnet 'Lärdomar från ett massexperiment eller....
+
+---
+
+![](images/lessons.png)
+
+???
+
+Jag vill också förtydliga att den text jag skickat ut bara är ett första utkast och att det således är  ett tidigt skede.. och jag är därför mycket tacksam för all möjlig typa av återkoppling när det kommer till alla delar i stort sätt.
+
+---
+
+## Övergripande syfte
+
+> "to evaluate older people’s perceptions of being co-researchers in a mass experiment on accessibility in housing. More specifically, the purpose is to investigate what interest and commitment to participate in research in this way exists in older people, what capacity older people attribute to themselves and show when it comes to performing the tasks included in a mass experiment, and what possible lessons and insights into research and accessibility to which participation in such a mass experiment contributes."
+
+
+---
+
+## Frågeställningar
+
+- What interest do older people in (southern) Sweden express that they have, when it comes to participating in a mass experiment on accessibility in housing? 
+- What capacity do older people in (southern) Sweden attribute to themselves and demonstrate when it comes to performing the tasks included in a mass experiment? 
+- What possible lessons and insights about research and accessibility can participation as a co-researcher in a mass experiment on accessibility in housing give older people in (southern) Sweden?
+
+???
+
+
+med den här studien är såsom det nu är formulerat att...
+
+(slide där syftet + frågeställningar syns)
+
+Men detta syfte är är jag medveten om lite i vagaste laget och behöver preciseras vilket jag hoppas är en av de punkter vi kan diskutera idag.
+
+Denna studie är alltså en form av utvärdering av vad som beskrivs som ett massexperiment om tillgänglighet i svenska bostäder... och då undrar ni kanske bad massexperiment är. 
+
+
+---
+
+## Hur rekryterades deltagarna?
+
+- PRO, SPF, Parkinson, Neuroförbundet
+- Elva lokalföreningar
+
+
+---
+
+## Utskick med inbjudan
+
+- Länk till informerat samtycke + enkät
+- Hänvisning till hemsida med information om studien
+- Gick ut till cirka 4000 e-postadresser
+- 146 svarade på första enkäten
+
+---
+
+## Utskick (bild)
+
+![](images/utskick.png)
+---
+
+## Andra enkäten 
+
+- Mejl utskick till de 146 som besvarat enkät 1
+- 116 svar varav ca 100 genomfört Bostadsförsöket
+
+
+---
+
+## Andra enkäten (bild)
+
+![](images/utskick2.png)
+
+---
+
+## Enkäternas utseende
+
+![](images/enkät1.png)
+---
+
+## Enkäternas utseende
+
+![](images/enkät2.png)
+
+---
+
+## Metod
+
+- Statistisk analys (behöver preciseras)
+- Komplettera med mindre kvalitativ studie?
+
+---
+
+## Resultat
+
+![](images/res1.png)
+
+
+---
+
+## Resultat
+
+![](images/res2.png)
+
+## Resultat
+
+![](images/res3.png)
+
+
+---
+## Resultat
+
+![](images/res4.png)
+
+
+---
+## Resultat
+
+![](images/res5.png)
+
+
+---
+## Resultat
+
+![](images/res6.png)
+
+
+---
+## Resultat
+
+![](images/res7.png)
+
+
+---
+## Resultat
+
+![](images/res8.png)
+
+
+---
+## Resultat
+
+![](images/res9.png)
+
+
+---
+## Resultat
+
+![](images/res10.png)
+
+
+---
+## Resultat
+
+![](images/res11.png)
+
+
+---
+## Resultat
+
+![](images/res12.png)
+
+
+---
+## Resultat
+
+![](images/res13.png)
+
+
+---
+## Resultat
+
+![](images/res14.png)
+
+
+---
+## Resultat
+
+![](images/res15.png)
+
+
+---
+## Resultat
+
+![](images/res16.png)
+
+
+---
+## Resultat
+
+![](images/res17.png)
+
+
+---
+## Resultat
+
+![](images/res18.png)
+
+
+---
+## Resultat
+
+![](images/res19.png)
+
+
+---
+## Resultat
+
+![](images/res20.png)
+
+
+---
+## Resultat
+
+![](images/res21.png)
+
+---
+
+## Saker att diskutera
+
+1. Vad för slags studie? (Fallstudie?)
+2. Behöver syfte/forskningsfrågorna preciseras?
+3. Hur skulle bättre syfte/forskningsfrågor kunna vara?
+4. Med avseende på utfallet, vilka statistiska analyser är möjliga att göra?
+5. Behöver studien kompletteras med fokusgrupp? Hur ska denna studie i så fall struktureras?
+
+---
+
+class: userage-slide, title-slide-custom
+
+## Tack för uppmärksamheten!
+
+### joakim.frogren@med.lu.se
+
+<img src="images/case-logo-svensk.png" width="240px" style="vertical-align:middle;margin:65px 5px">
+
