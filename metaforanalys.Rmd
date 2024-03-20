@@ -1,6 +1,6 @@
 ---
 title: "Metaforanalys"
-author: Joakim Fögren
+author: Joakim Frögren
 date: 2024-03-20
 output: ioslides_presentation
 ---
