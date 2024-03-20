@@ -1,0 +1,47 @@
+---
+title: "Metaforanalys"
+author: Joakim Fögren
+date: 2024-03-20
+output: ioslides_presentation
+---
+
+## Bengt Anderberg
+
+> "En gång finner människan    
+> hästar betande vid havet    
+> ser förnöjd de starka djuren    
+> skinande av sol och liv    
+> havsvind bor i deras manar    
+> och de äter lugnt det milda gräset.    
+> Men då slår det henne plötsligt    
+> sorgset sorgset ner i hjärtat slår det    
+> att allt kött är hö"   
+
+</br>
+Ur diktsamlingen Fåglar (1946)
+
+## Carl David af Wirsén
+
+> "Allt kött är hö och blomstren dö och tiden allt fördriver, blott Herrens ord förbliver".
+
+</br>
+Sommarpsalm (1889)
+
+## Gustaf Fröding
+
+> "Nej, en pastor med en psalmbok,      
+> läser över dej och mullen,        
+> men vad helst han sedan spår dej,       
+> nog fan stannar du i kullen.        
+> tills du efter några vårar,       
+> sticker fram som gräs ur jorden,        
+> tunnsått timotej, likt dina hår,        
+> dom glesaste i Norden.        
+
+> Då skall klockarns ko Rölinna,    
+> som behöver mjölk i juvren,   
+> komma lunkande och mumsa,   
+> på föredetta Gamle Spjuver."    
+
+</br>
+Ett liv efter detta ur Ungdomsdikter (1911)
