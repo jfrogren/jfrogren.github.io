@@ -1,0 +1,35 @@
+---
+title: "Tankar om nationell demensstrategi 2025-2028"
+author: Joakim Frögren
+date: 2025-05-23
+output: ioslides_presentation
+---
+
+## Uppgift {.smaller}
+
+> "Inför mötet vill vi att du tar del av innehållet och funderar över hur vi i vårt län skulle kunna lägga upp ett arbete för att förverkliga denna. Vi vill inte ha en färdig plan utan mer höra dina tankar om tillvägagångssätt."
+
+
+## Tankar om tillvägagångssätt för regionens demensstrategi
+
+1. Stärk friskfaktorerna genom effektivt förebyggande arbete
+2. Fokus på bibehållen värdighet från diagnos till livets slut
+3. Säkerställ att relevant kunskap finns där den behövs och används
+
+
+## 1. Stärk friskfaktorerna genom effektivt förebyggande arbete
+
+- Utgå från fingermodellen
+- Riskminimering genom hälsokontroller och åtgärdsprogram
+
+## 2. Fokus på bibehållen värdighet från diagnos till livets slut 
+
+- Bromsande åtgärder snarast möjligt
+- Stärkt anhörigstöd
+- Öppna upp för anpassade boendeformer - i tid
+
+## 3. Säkerställ att relevant kunskap finns där den behövs och används 
+
+- Kontinuerlig utbildning för personal inom socialtjänst och hälso- och sjukvård
+- Etablerandet av "råd" med experter på demens att konsultera
+- Forsknings- och utvecklingsprojekt - anhöriga, välfärdsteknik, AI
